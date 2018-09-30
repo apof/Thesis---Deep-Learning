@@ -18,16 +18,20 @@ included beyond the basic techniques and several modern ones that are used even 
 today's applications, we would suggest to someone who is interested in studying
 further, to look for the new trends and methods that are more specialized and up to
 date.
+
 Considering that Neural Networks are one of the most basic and effective image
 processing methods, we experimented with several types of Neural Networks in order to
 reconstruct corrupted images.
+
 We developed two kinds of Neural Networks. More specifically, we implemented a
 Convolutional Neural Network (CNN) and an Encoder - Decoder to solve both Image
 Inpainting and Image Denoising. We used MNIST Dataset which consists of tiny images
 that illustrate handwritten digits in range 0 to 9. This Dataset is the most suitable as it
 facilitates our experiments with the networks' parameters and it does not require an
 expensive machine to be used.
+
 One of our goals is to solve these problems and to produce high quality images. We
 also aim to draw conclusions by experimenting with both networks' and problems'
 parameters.
+
 Our application has been developed using Tensorflow library.
