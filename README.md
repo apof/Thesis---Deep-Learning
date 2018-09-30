@@ -29,3 +29,4 @@ expensive machine to be used.
 One of our goals is to solve these problems and to produce high quality images. We
 also aim to draw conclusions by experimenting with both networks' and problems'
 parameters.
+Our application has been developed using Tensorflow library.
