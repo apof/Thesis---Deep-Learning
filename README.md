@@ -10,6 +10,7 @@ quite tricky, our approach is more intuitive in order to be explained and unders
 better. At the same time, taking into account that neural networks and Machine Learning
 are based on strictly mathematical models, we focus on mathematic explanation
 wherever is essential.
+
 Our goal is the initiation of a new reader to Deep Learning, regardless of his elder
 knowledge of this subject. After reading this thesis he will be able to understand how
 Deep Learning works and its general applications. Although in our work we have
