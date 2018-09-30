@@ -2,7 +2,7 @@
 Deep Neural Networks for Image Restoration in MNIST
 Dataset
 
-                                  ABSTRACT
+
 In our work we try to present concisely and comprehensively the basic features of the
 structure of a multiple layer neural network and some fundamental technics and
 methodologies that determine its function. Concerning the fact that some chapters are
