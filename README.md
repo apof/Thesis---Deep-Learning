@@ -1,4 +1,4 @@
-# Thesis---Deep-Learning
+# Bachelor's thesis
 Deep Neural Networks for Image Restoration in MNIST
 Dataset
 
