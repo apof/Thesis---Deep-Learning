@@ -35,3 +35,5 @@ also aim to draw conclusions by experimenting with both networks' and problems'
 parameters.
 
 Our application has been developed using Tensorflow library.
+
+Authors: Apostolos Florakis - Dimitrios Tsesmelis (https://github.com/JimTsesm)
