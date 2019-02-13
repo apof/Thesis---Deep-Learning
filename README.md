@@ -36,4 +36,4 @@ parameters.
 
 Our application has been developed using Tensorflow library.
 
-Authors: Apostolos Florakis - Dimitrios Tsesmelis (https://github.com/JimTsesm)
+Authors: Apostolos Florakis(https://github.com/apof) - Dimitrios Tsesmelis (https://github.com/JimTsesm)
